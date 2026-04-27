@@ -1,0 +1,11 @@
+account,region,plan,mrr,sessions,conv,health,status
+Acme Corp,North America,Enterprise,18400,12840,4.2,92,Active
+Brightwave,Europe,Pro,6200,5310,3.8,85,Active
+DataForge,APAC,Business,9100,7980,2.9,54,At risk
+Orbis Labs,North America,Pro,5500,4210,3.1,78,Active
+Nuvelo Inc,Europe,Starter,1200,1840,1.4,66,Active
+Quasar Sys,APAC,Business,7800,6300,2.6,48,At risk
+Meridian Co,North America,Enterprise,22100,18700,5.1,97,Active
+Pulse Digital,Europe,Pro,4900,3990,3.4,22,Churned
+SkyStack,North America,Starter,980,1200,1.1,61,Active
+VantaGrid,APAC,Pro,5100,4440,2.8,73,Active
